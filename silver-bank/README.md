@@ -10,11 +10,13 @@
 
 <br>
 
-![Summary](assets/LinkedIn_Summary.png)
+## Summary
+<img width="1080" height="1350" alt="A" src="https://github.com/user-attachments/assets/e70006b6-55ed-40d1-943e-d6176dd65c8e" />
+
 
 ---
 
-## 👥 Authors
+## Authors
 
 | Name | Student ID |
 |------|-----------|
@@ -27,34 +29,18 @@
 
 ---
 
-## ⚠️ Risk Assessment
+## Risk Assessment
 
-![Risk Table](assets/risk_table_slide.png)
+<img width="960" height="540" alt="Slide5" src="https://github.com/user-attachments/assets/2ca528e3-67a0-4137-8f3a-78418acbeb2c" />
 
-| Asset | Key Vulnerability | Risk Rating |
-|-------|------------------|-------------|
-| Staff Credentials | No MFA, poor training | 🔴 CRITICAL |
-| Core Banking System | Legacy infrastructure | 🔴 CRITICAL |
-| BCP / DRP | Outdated, untested | 🔴 CRITICAL |
-| ATM Network | Legacy OS, weak monitoring | 🟠 HIGH |
-| Remote Devices | No endpoint controls | 🟠 HIGH |
-| Customer Accounts | Outdated SSL, weak PKI | 🟠 HIGH |
-| Third-Party Systems | No vendor risk assessment | 🟠 HIGH |
+## Recommendations
+
+<img width="960" height="540" alt="Slide9" src="https://github.com/user-attachments/assets/83c38b8a-07e2-41b7-a863-de240d0fe6d5" />
+
 
 ---
 
-## ✅ Recommendations
-
-1. **Appoint a CISO** — executive accountability reporting to the Board
-2. **Adopt ISO 27001 / NIST CSF** — formalise governance, risk, and controls
-3. **Modernise Infrastructure** — MFA, PKI, endpoint protection, monitoring
-4. **Build Threat Intelligence Capability** — MITRE ATT&CK, real-time escalation
-5. **Strengthen Security Culture** — training, phishing simulations, awareness
-6. **Formalise Red/Blue/Purple Teaming** — structured continuous exercises
-
----
-
-## 🛠️ Frameworks Referenced
+## Frameworks Referenced
 
 - [MITRE ATT&CK](https://attack.mitre.org)
 - [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
